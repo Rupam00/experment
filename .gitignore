@@ -1,0 +1,5 @@
+yoo.log
+you.txt
+*.log
+node_modules/
+!server.log

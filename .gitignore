@@ -3,3 +3,4 @@ you.txt
 *.log
 node_modules/
 !server.log
+body.html

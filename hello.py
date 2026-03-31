@@ -1,6 +1,7 @@
 
-print("Hello Wotld")
+print("Hello World")
 
 print("MAIN")
-import ma
+import math
+print("HI")
 

@@ -2,4 +2,4 @@ HI
 I am RG
 lets go....
 
-Thank u!
+Thank YOU!
